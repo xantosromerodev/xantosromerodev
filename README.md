@@ -1,27 +1,26 @@
 <h1 align="center">Hola 👋, soy Santos Romero</h1>
-<h3 align="center">Desarrollador web frontend apasionado y creador de contenidos viviendo en Colombia.</h3>
+<h3 align="center">Desarrollador web frontend y creador de contenidos para principiantes en desarrollo web.</h3>
 
-- 🔭 Actualmente estoy trabajando en [Student Dev Hub](https://xantosromero.notion.site/Student-Dev-Hub-ae189516ed064b388cfc09647acf36db)
+- 🔭 Actualmente estoy trabajando en [Web Developer Kit](https://xantosromero.notion.site/Student-Dev-Hub-ae189516ed064b388cfc09647acf36db)
 
-- 🌱 Actualmente estoy aprendiendo **Copywriting**
+- 🌱 Actualmente estoy aprendiendo **HTML**, **CSS** y **JavaScript**
 
 - 👯 Estoy buscando colaborar con **HTML y CSS**
 
-- 🤝 Estoy buscando ayuda con [Student Dev Hub](https://xantosromero.notion.site/Student-Dev-Hub-ae189516ed064b388cfc09647acf36db)
+- 🤝 Estoy buscando ayuda con [Wed Developer Kit](https://xantosromero.notion.site/Student-Dev-Hub-ae189516ed064b388cfc09647acf36db)
 
 - 📝 Regularmente escribo artículos en [Dev](https://dev.to/xantosromero)
 
-- 💬 Pregúntame sobre **HTML, CSS, JavaScript, Git y mentorías**
+- 💬 Pregúntame sobre **HTML, CSS, JavaScript y Git**
 
 - 📫 Contáctame a: **xantosromero@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://codepen.io/xantosromero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="xantosromero" height="30" width="40" /></a>
-<a href="https://dev.to/xantosromero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xantosromero" height="30" width="40" /></a>
+<a href="https://dev.to/xantosromero" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/dev_to_icon_130961.png" alt="xantosromero" height="30" width="40" /></a>
 <a href="https://twitter.com/xantosromero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xantosromero" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/xantosromero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xantosromero" height="30" width="40" /></a>
-<a href="https://hashnode.com/@xantosromero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@xantosromero" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/xantosromero" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="xantosromero" height="30" width="40" /></a>
+<a href="https://hashnode.com/@xantosromero" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/hashnode-icon.svg" alt="@xantosromero" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Stack:</h3>
