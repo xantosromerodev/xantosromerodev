@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Santos Romero</h1>
-<h3 align="center">Desarrollador web frontend y creador de contenidos sobre desarrollo web.</h3>
+<h3 align="center">Desarrollador web frontend y creador de contenidos</h3>
 
 - 🔭 Actualmente estoy trabajando en [Web Developer Kit](https://xantosromero.notion.site/Student-Dev-Hub-ae189516ed064b388cfc09647acf36db)
 
