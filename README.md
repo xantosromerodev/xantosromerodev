@@ -1,15 +1,11 @@
 <h1 align="center">Hola 👋, soy Santos Romero</h1>
 <h3 align="center">Desarrollador web frontend y creador de contenidos</h3>
 
-- 🔭 Actualmente estoy trabajando en [Web Developer Kit](https://xantosromero.notion.site/Student-Dev-Hub-ae189516ed064b388cfc09647acf36db)
+- 🔭 Actualmente estoy recopilando recursos para iniciar un desafío de [#100DaysOfCode](#)
 
-- 🌱 Actualmente estoy aprendiendo **HTML**, **CSS** y **JavaScript**
+- 🌱 Actualmente estoy subiendo de nivel con **HTML**, **CSS** y **JavaScript**
 
-- 👯 Estoy buscando colaborar con **HTML y CSS**
-
-- 🤝 Estoy buscando ayuda con [Wed Developer Kit](https://xantosromero.notion.site/Student-Dev-Hub-ae189516ed064b388cfc09647acf36db)
-
-- 📝 Regularmente escribo artículos en [Dev](https://dev.to/xantosromero)
+- 📝 Regularmente escribo artículos en [Dev](https://dev.to/xantosromero) & [Hashnode](https://xantosromeroblog.hashnode.dev/)
 
 - 💬 Pregúntame sobre **HTML, CSS, JavaScript y Git**
 
