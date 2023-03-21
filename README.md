@@ -5,18 +5,17 @@
 
 - 🌱 Actualmente estoy subiendo de nivel con **HTML**, **CSS** y **JavaScript**
 
-- 📝 Regularmente escribo artículos en [Dev](https://dev.to/xantosromero) & [Hashnode](https://xantosromeroblog.hashnode.dev/)
+- 📝 Regularmente escribo artículos en [Hashnode](https://xantosromeroblog.hashnode.dev/)
 
-- 💬 Pregúntame sobre **HTML, CSS, JavaScript y Git**
+- 💬 Pregúntame sobre **HTML, CSS, y JavaScript**
 
 - 📫 Contáctame a: **xantosromero@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://dev.to/xantosromero" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/dev_to_icon_130961.png" alt="xantosromero" height="30" width="40" /></a>
-<a href="https://twitter.com/xantosromero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xantosromero" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/xantosromero" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="xantosromero" height="30" width="40" /></a>
 <a href="https://hashnode.com/@xantosromero" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/hashnode-icon.svg" alt="@xantosromero" height="30" width="40" /></a>
+<a href="https://codepen.io/collection/NqYZpv" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/codepen-icon.svg" alt="@xantosromero" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Stack:</h3>
