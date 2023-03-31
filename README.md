@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, soy Santos Romero</h1>
+<h1 align="center">Bienvenido👋</h1>
 <h3 align="center">Desarrollador web frontend y creador de contenidos</h3>
 
 - 🔭 Actualmente estoy recopilando recursos para iniciar un desafío de [#100DaysOfCode](#)
 
-- 🌱 Actualmente estoy subiendo de nivel con **HTML**, **CSS** y **JavaScript**
+- 🌱 Actualmente estoy aprendiendo **HTML**, **CSS** y **JavaScript** en **[W3Schools](https://www.w3profile.com/xantosromero)**
 
-- 📝 Regularmente escribo artículos en [Hashnode](https://xantosromeroblog.hashnode.dev/)
+- 📝 Estoy documentando mi aprendizaje en **[Hashnode](https://xantosromeroblog.hashnode.dev/)**
 
 - 💬 Pregúntame sobre **HTML, CSS, y JavaScript**
 
