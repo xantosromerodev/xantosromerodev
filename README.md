@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenido👋</h1>
-<h3 align="center">Desarrollador web frontend y creador de contenidos</h3>
+<h3 align="center">Soy desarrollador web frontend y creador de contenidos</h3>
 
 - 🔭 Actualmente estoy recopilando recursos para iniciar un desafío de [#100DaysOfCode](#)
 
