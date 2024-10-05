@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="left">Conectemos:</h3>** 
-<p align="left"><a href="https://codepen.io/https://codepen.io/xantosromero" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/https://github.com/xantosromerodev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/xantosromero/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://codepen.io/xantosromero" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/xantosromerodev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/xantosromero/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">He desarrollado aplicaciones web front-end escalables sobre casos de estudio reales que satisfacen necesidades. También, he desarrollado APIs y frameworks para automatizar procesos repetitivos.</h3>**
 
