@@ -15,14 +15,14 @@
 **<h3 align="left">Conectemos:</h3>** 
 <p align="left"><a href="https://codepen.io/xantosromero" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/xantosromerodev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/xantosromero/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">He desarrollado aplicaciones web front-end escalables sobre casos de estudio reales que satisfacen necesidades. También, he desarrollado APIs y frameworks para automatizar procesos repetitivos.</h3>**
+ **<h3 align="left">Estoy aprendiendo Bootstrap 5, creando contenido sobre desarrollo frontend y codificando todos los días para mejorar mis habilidades de programación</h3>**
 
 **<h3 align="left">Actualmente</h3>**
 
-- 💼 Estoy trabajando: **💻 seguimiento de tickets & inventario con Power BI, y marca personal.**
-- 🌱 Estoy aprendiendo: **📚 Microsoft Power BI, JavaScript avanzado y PWA.**
-- 💬 Pregúntame sobre: **💡 JavaScript, Power BI, Git e inglés.**
-- ⚡ Un sueño: **🎢 compartir una charla en TEDx Program.**
+- 💼 Estoy trabajando: **💻 [100daysofprojects](https://xantosromerodev.github.io/100daysofprojects/).**
+- 🌱 Estoy aprendiendo: **📚 [Bootstrap 5](http://w3schools.com/bootstrap5/).**
+- 💬 Pregúntame sobre: **💡 Git, HTML, CSS, JavaScript y Bootstrap.**
+- ⚡ Un sueño: **🎢 dar una charla en TEDx.**
 - 📂 Portafolio: **<a href="#pronto" target="_blank">xantosromero.dev/projects</a>**
 - 📝 Blog: **<a href="https://frontend-club.hashnode.dev/" target="_blank">frontend-club.dev</a>**
 
