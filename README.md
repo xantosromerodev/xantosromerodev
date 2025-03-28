@@ -12,18 +12,18 @@
   </ul>
 </div>
 
-<h3 align="left">Soy desarrollador frontend en constante aprendizaje. Actualmente, estoy profundizando en **Bootstrap 5**, creando contenido sobre desarrollo web y codificando a diario para mejorar mis habilidades en programación. Mi objetivo es seguir perfeccionando mis competencias y contribuir con soluciones innovadoras y eficientes en cada proyecto.</h3>
+<h4 align="left">Soy desarrollador frontend en constante aprendizaje. Actualmente, estoy profundizando en Bootstrap 5, creando contenido sobre desarrollo web y codificando a diario para mejorar mis habilidades en programación. Mi objetivo es seguir perfeccionando mis competencias y contribuir con soluciones innovadoras y eficientes en cada proyecto.</h4>
 
 <hr>
 <p align="left"><a href="https://codepen.io/xantosromero" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/xantosromerodev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/xantosromero/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-**<h3 align="left">Actualmente</h3>**
+**<h3 align="left">Actualmente:</h3>**
 
-- 💼 Estoy trabajando: **💻 [100daysofprojects](https://xantosromerodev.github.io/100daysofprojects/).**
-- 🌱 Estoy aprendiendo: **📚 [Bootstrap 5](http://w3schools.com/bootstrap5/).**
-- 💬 Pregúntame sobre: **💡 Git, HTML, CSS, JavaScript y Bootstrap.**
-- ⚡ Un sueño: **🎢 dar una charla en TEDx.**
-- 📂 Portafolio: **<a href="#pronto" target="_blank">xantosromero.dev/projects</a>**
+- 💼 Construyendo un desafío de codificación: **💼[#100daysofprojects](https://xantosromerodev.github.io/100daysofprojects/).**
+- 🌱 Aprendiendo: **🎓[Bootstrap 5](http://w3schools.com/bootstrap5/)** en [W3Schools.com](https://www.w3profile.com/xantosromero)
+- 💬 Podemos intercambiar conocimiento sobre: **Git, HTML, CSS, JavaScript y Bootstrap.**
+- ⚡ Un sueño: **dar una charla TEDx** sobre estrategias para preservar la cultura amazónica.
+- 📂 Mi portafolio: **<a href="#pronto" target="_blank">xantosromero.dev/projects</a>**
 - 📝 Blog: **<a href="https://frontend-club.hashnode.dev/" target="_blank">frontend-club.dev</a>**
 
 
