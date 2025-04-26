@@ -27,7 +27,7 @@
 
 - 💼 Construyendo el blog: **💼[#100daysofprojects](https://xantosromerodev.github.io/100daysofprojects/)**
 - 🌱 Aprendiendo: **🎓[Bootstrap 5](http://w3schools.com/bootstrap5/)** en [W3Schools.com](https://www.w3profile.com/xantosromero)
-- 💬 Pregúntame sobre: **productividad personal (Todoist, Second Brain), organización digital (PARA Method) y Bootstrap 5**
+- 💬 Pregúntame sobre: **Todoist, Second Brain, PARA Method y Bootstrap 5**
 - ⚡ Un sueño: **dar una charla TEDx** sobre estrategias para preservar la cultura amazónica
 - 📂 Mi portafolio: **<a href="#pronto" target="_blank">xantosromero.dev</a>**
 - 📝 Blog: **<a href="https://frontend-club.hashnode.dev/" target="_blank">frontend-club</a>**
