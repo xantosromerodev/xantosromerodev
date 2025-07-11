@@ -25,19 +25,19 @@
 
 **<h3 align="left">Actualmente:</h3>**
 
-- 💼 Construyendo el blog: **💼[#100daysofprojects](https://xantosromerodev.github.io/100daysofprojects/)**
+- 💼 Construyendo el blog: **💼[#100daysofprojects](https://frontendclubgh.github.io/100daysofprojects/)**
 - 🌱 Aprendiendo: **🎓[Bootstrap 5](http://w3schools.com/bootstrap5/)** en [W3Schools.com](https://www.w3profile.com/xantosromero)
 - 💬 Pregúntame sobre: **Todoist, Second Brain, PARA Method y Bootstrap 5**
-- ⚡ Un sueño: **dar una charla TEDx** sobre estrategias para preservar la cultura amazónica
+- ⚡ Un sueño: **dar una charla TEDx** y vivir con mi madre
 - 📂 Mi portafolio: **<a href="#pronto" target="_blank">xantosromero.dev</a>**
 - 📝 Blog: **<a href="https://frontend-club.hashnode.dev/" target="_blank">frontend-club</a>**
 
 
- **<h3 align="left">Herramientas</h3>**
+ **<h3 align="left">Stack:</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" height="32" alt="nodejs" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" height="32" alt="css" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" height="32" alt="github" style="margin-right: 4px"> <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" height="32" alt="HTML" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff" height="32" alt="mkdocs" style="margin-right: 4px"></div>
 
- **<h3 align="left">Estadísticas</h3>**
+ **<h3 align="left">Resumen:</h3>**
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xantosromerodev&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
